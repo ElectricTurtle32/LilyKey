@@ -1,10 +1,10 @@
 
 
 # LilyKey
-An opensource split wireless keyboard<img width="971" height="647" alt="kicad" src="https://github.com/user-attachments/assets/3ac580c1-8795-4b71-be67-864d568ba4fd" />
-<img width="576" height="490" alt="20260123_23h16m19s_grim" src="https://github.com/user-attachments/assets/de6817f7-d45f-4432-9c20-4b6af5f7ca6a" />
-<img width="470" height="340" alt="20260123_23h16m31s_grim" src="https://github.com/user-attachments/assets/d8e94c7c-5e77-47e7-ad28-e21eb48df2d1" />
-<img width="1112" height="805" alt="20260123_23h30m06s_grim" src="https://github.com/user-attachments/assets/1d8e98cb-a4af-4219-9cc0-4660de9ce15a" />
+An opensource split wireless keyboard
+<img width="1029" height="681" alt="20260202_13h03m20s_grim" src="https://github.com/user-attachments/assets/2b429ec6-36a7-463f-8f07-41d5d005d18a" />
+<img width="1117" height="762" alt="20260202_13h03m55s_grim" src="https://github.com/user-attachments/assets/a02df6d2-2eaa-4630-b306-7c93247cd1d0" />
+
 <img width="559" height="544" alt="20260125_23h00m33s_grim" src="https://github.com/user-attachments/assets/6edc778d-43b2-4780-b298-21be2ad1f658" />
 
 <img width="491" height="432" alt="20260125_23h01m45s_grim" src="https://github.com/user-attachments/assets/f3638986-9ce5-44ea-94c5-c46620074418" />
