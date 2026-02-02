@@ -1457,16 +1457,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 123.19) (xy 26.67 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23f5e3dc-7065-42c2-9fdc-b45e3827f3cf")
-	)
-	(wire
-		(pts
 			(xy 165.1 106.68) (xy 184.15 106.68)
 		)
 		(stroke
@@ -1547,16 +1537,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 127) (xy 26.67 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "406e551b-baf3-433c-a522-7e7fac34d5d1")
-	)
-	(wire
-		(pts
 			(xy 107.95 49.53) (xy 127 49.53)
 		)
 		(stroke
@@ -1564,6 +1544,16 @@
 			(type default)
 		)
 		(uuid "41133513-3246-4b32-8e82-af20e303873f")
+	)
+	(wire
+		(pts
+			(xy 26.67 142.24) (xy 21.59 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41918e88-7fbe-4b31-ac10-4fb3e467e5b4")
 	)
 	(wire
 		(pts
@@ -1594,16 +1584,6 @@
 			(type default)
 		)
 		(uuid "43b41987-a3ef-466b-8d2a-2c718fd12b0f")
-	)
-	(wire
-		(pts
-			(xy 21.59 134.62) (xy 26.67 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "444a9781-1dc8-4d44-aec1-c4b835cff5c0")
 	)
 	(wire
 		(pts
@@ -1654,16 +1634,6 @@
 			(type default)
 		)
 		(uuid "4b42cfbe-d5e6-4652-83e9-f43194a1d110")
-	)
-	(wire
-		(pts
-			(xy 21.59 142.24) (xy 26.67 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d672f60-2f42-41e5-b857-60a0d6077750")
 	)
 	(wire
 		(pts
@@ -1724,6 +1694,16 @@
 			(type default)
 		)
 		(uuid "5cebdb82-3e1e-468d-940a-77cc5c425a18")
+	)
+	(wire
+		(pts
+			(xy 26.67 123.19) (xy 21.59 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f60859c-b37f-454c-a76a-5512cea27198")
 	)
 	(wire
 		(pts
@@ -1817,16 +1797,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 138.43) (xy 26.67 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77571e69-d003-4f1f-a963-ff114954e5f6")
-	)
-	(wire
-		(pts
 			(xy 193.04 60.96) (xy 193.04 80.01)
 		)
 		(stroke
@@ -1854,6 +1824,16 @@
 			(type default)
 		)
 		(uuid "87b7eb31-e210-4c9d-b5ed-4688736c4fd9")
+	)
+	(wire
+		(pts
+			(xy 26.67 138.43) (xy 21.59 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89e590de-5a13-40b5-afd0-aa707f0f9e07")
 	)
 	(wire
 		(pts
@@ -1897,6 +1877,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 134.62) (xy 21.59 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a88bafea-7874-461a-b5e5-d02c4fadc19f")
+	)
+	(wire
+		(pts
 			(xy 97.79 99.06) (xy 97.79 115.57)
 		)
 		(stroke
@@ -1934,6 +1924,16 @@
 			(type default)
 		)
 		(uuid "ae263c66-14ee-400f-a594-c3c2866021a6")
+	)
+	(wire
+		(pts
+			(xy 26.67 127) (xy 21.59 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af2f1234-f1b5-4b51-97d0-eaa80d1121c6")
 	)
 	(wire
 		(pts
@@ -2067,6 +2067,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 130.81) (xy 21.59 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e74fb122-dcea-4db0-ae91-64b9abefd320")
+	)
+	(wire
+		(pts
 			(xy 116.84 99.06) (xy 116.84 115.57)
 		)
 		(stroke
@@ -2114,26 +2124,6 @@
 			(type default)
 		)
 		(uuid "f9d54148-4b2e-456a-bd2f-4a38fc87b145")
-	)
-	(wire
-		(pts
-			(xy 21.59 130.81) (xy 26.67 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbd0a60c-2277-4d98-9e79-8de809164ab1")
-	)
-	(label "COL3"
-		(at 21.59 134.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0814f5ed-00d3-422c-8095-093890b803ca")
 	)
 	(label "ROW3"
 		(at 85.09 106.68 0)
@@ -2185,35 +2175,25 @@
 		)
 		(uuid "1e643f5e-1dfd-4c95-bd35-a04b7271997b")
 	)
-	(label "COL0"
-		(at 21.59 123.19 0)
+	(label "COL3"
+		(at 26.67 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "2e6491e1-579a-4298-80de-23485b1a37d1")
+		(uuid "3d902f2c-3d24-4bdb-aed0-20a4e72ff9c4")
 	)
 	(label "COL2"
-		(at 21.59 130.81 0)
+		(at 26.67 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "3827dac4-0b6f-418f-bb46-608b7155c1f7")
-	)
-	(label "COL1"
-		(at 21.59 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4b407aab-c2b5-498c-84d6-f09d5f67c3b7")
+		(uuid "4a86a26a-6384-4daf-91f6-cb45a04af141")
 	)
 	(label "COL2"
 		(at 135.89 29.21 0)
@@ -2224,6 +2204,16 @@
 			(justify left bottom)
 		)
 		(uuid "4b804ce6-c67d-4b4b-9b2a-1a37ea6b8271")
+	)
+	(label "COL5"
+		(at 26.67 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "54383063-cc1b-478c-b8b8-06632bdb4656")
 	)
 	(label "VBAT"
 		(at 45.72 34.29 180)
@@ -2245,6 +2235,16 @@
 		)
 		(uuid "69ce30c2-ac84-422b-a1b5-fea042f7cece")
 	)
+	(label "COL1"
+		(at 26.67 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "84630aff-7f68-4244-a6a5-d9df7627d436")
+	)
 	(label "COL3"
 		(at 154.94 29.21 0)
 		(effects
@@ -2254,16 +2254,6 @@
 			(justify left bottom)
 		)
 		(uuid "8a9e497c-6b92-48db-98b9-cc08e1471a7c")
-	)
-	(label "COL5"
-		(at 21.59 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8bbd32f7-1dc1-48be-bd64-8aaddf8d9c18")
 	)
 	(label "COL4"
 		(at 173.99 29.21 0)
@@ -2295,6 +2285,26 @@
 		)
 		(uuid "a5910254-9512-4705-85a5-2560f89f6080")
 	)
+	(label "COL4"
+		(at 26.67 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b3ac1ed1-bcb6-48b3-b9bb-4150117f803c")
+	)
+	(label "COL0"
+		(at 26.67 142.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b42d7501-d863-4cfe-a67b-9a6d3afb55f4")
+	)
 	(label "COL0"
 		(at 97.79 29.21 0)
 		(effects
@@ -2324,16 +2334,6 @@
 			(justify left bottom)
 		)
 		(uuid "c4ac0f13-2160-4c7d-9f7c-ae661e412bde")
-	)
-	(label "COL4"
-		(at 21.59 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d0a18b34-db07-4c03-ba29-1a332140ca9d")
 	)
 	(label "ROW4"
 		(at 77.47 134.62 180)
@@ -2393,7 +2393,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 146.05 119.38 0)
 			(effects
 				(font
@@ -2479,7 +2479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 121.92 55.88 0)
 			(effects
 				(font
@@ -2547,7 +2547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 102.87 74.93 0)
 			(effects
 				(font
@@ -2615,7 +2615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 179.07 74.93 0)
 			(effects
 				(font
@@ -2683,7 +2683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 102.87 55.88 0)
 			(effects
 				(font
@@ -2753,7 +2753,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 127 83.82 0)
 			(effects
 				(font
@@ -2841,7 +2841,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 165.1 83.82 0)
 			(effects
 				(font
@@ -2927,7 +2927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 160.02 36.83 0)
 			(effects
 				(font
@@ -2995,7 +2995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 102.87 93.98 0)
 			(effects
 				(font
@@ -3063,7 +3063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 140.97 55.88 0)
 			(effects
 				(font
@@ -3131,7 +3131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 160.02 93.98 0)
 			(effects
 				(font
@@ -3265,7 +3265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 160.02 110.49 0)
 			(effects
 				(font
@@ -3335,7 +3335,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 146.05 83.82 0)
 			(effects
 				(font
@@ -3423,7 +3423,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 107.95 119.38 0)
 			(effects
 				(font
@@ -3511,7 +3511,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -3599,7 +3599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:JSTPH"
+		(property "Footprint" "Footprints:JSTPH"
 			(at 59.69 34.29 0)
 			(effects
 				(font
@@ -3736,7 +3736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 165.1 64.77 0)
 			(effects
 				(font
@@ -3822,7 +3822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 102.87 110.49 0)
 			(effects
 				(font
@@ -3892,7 +3892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 203.2 64.77 0)
 			(effects
 				(font
@@ -3978,7 +3978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -4181,7 +4181,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 146.05 102.87 0)
 			(effects
 				(font
@@ -4269,7 +4269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 203.2 102.87 0)
 			(effects
 				(font
@@ -4355,7 +4355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 121.92 74.93 0)
 			(effects
 				(font
@@ -4423,7 +4423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 198.12 93.98 0)
 			(effects
 				(font
@@ -4493,7 +4493,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 146.05 45.72 0)
 			(effects
 				(font
@@ -4579,7 +4579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -4649,7 +4649,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 165.1 102.87 0)
 			(effects
 				(font
@@ -4735,7 +4735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 160.02 55.88 0)
 			(effects
 				(font
@@ -4805,7 +4805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 107.95 102.87 0)
 			(effects
 				(font
@@ -4893,7 +4893,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 107.95 45.72 0)
 			(effects
 				(font
@@ -4981,7 +4981,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 184.15 83.82 0)
 			(effects
 				(font
@@ -5067,7 +5067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 198.12 74.93 0)
 			(effects
 				(font
@@ -5135,7 +5135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 198.12 55.88 0)
 			(effects
 				(font
@@ -5203,7 +5203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 140.97 110.49 0)
 			(effects
 				(font
@@ -5271,7 +5271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 102.87 36.83 0)
 			(effects
 				(font
@@ -5339,7 +5339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 140.97 36.83 0)
 			(effects
 				(font
@@ -5409,7 +5409,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 127 64.77 0)
 			(effects
 				(font
@@ -5495,7 +5495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 140.97 93.98 0)
 			(effects
 				(font
@@ -5565,7 +5565,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 146.05 64.77 0)
 			(effects
 				(font
@@ -5653,7 +5653,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 184.15 64.77 0)
 			(effects
 				(font
@@ -5741,7 +5741,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 165.1 45.72 0)
 			(effects
 				(font
@@ -5831,7 +5831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:XIAO_nRF52840_DUAL"
+		(property "Footprint" "Footprints:XIAO_nRF52840_DUAL"
 			(at 39.37 129.54 0)
 			(effects
 				(font
@@ -5959,7 +5959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 160.02 74.93 0)
 			(effects
 				(font
@@ -6027,7 +6027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6095,7 +6095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 121.92 93.98 0)
 			(effects
 				(font
@@ -6165,7 +6165,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 203.2 119.38 0)
 			(effects
 				(font
@@ -6251,7 +6251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 121.92 110.49 0)
 			(effects
 				(font
@@ -6321,7 +6321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 184.15 119.38 0)
 			(effects
 				(font
@@ -6407,7 +6407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 121.92 36.83 0)
 			(effects
 				(font
@@ -6475,7 +6475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 198.12 110.49 0)
 			(effects
 				(font
@@ -6545,7 +6545,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 127 45.72 0)
 			(effects
 				(font
@@ -6631,7 +6631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 179.07 110.49 0)
 			(effects
 				(font
@@ -6701,7 +6701,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 127 102.87 0)
 			(effects
 				(font
@@ -6789,7 +6789,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 107.95 64.77 0)
 			(effects
 				(font
@@ -6875,7 +6875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 179.07 93.98 0)
 			(effects
 				(font
@@ -6945,7 +6945,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 184.15 102.87 0)
 			(effects
 				(font
@@ -7033,7 +7033,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 127 119.38 0)
 			(effects
 				(font
@@ -7121,7 +7121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 184.15 45.72 0)
 			(effects
 				(font
@@ -7209,7 +7209,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 107.95 83.82 0)
 			(effects
 				(font
@@ -7297,7 +7297,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 165.1 119.38 0)
 			(effects
 				(font
@@ -7385,7 +7385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:RevDiode"
+		(property "Footprint" "Footprints:RevDiode"
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -7471,7 +7471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ExtraFootprints:SW_Hotswap_Kailh_Choc_V1V2"
+		(property "Footprint" "Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 140.97 74.93 0)
 			(effects
 				(font
