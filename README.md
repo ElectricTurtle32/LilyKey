@@ -22,9 +22,9 @@ BOM
 | Diodes           | [LINK](https://www.digikey.com/en/products/detail/smc-diode-solutions/1N4148W/6022450)                          | 100  | $0.05          | $4.74       |
 | Switches         | [LINK](https://chosfox.com/products/kailh-four-seasons-mini-low-profile-linear-switches?variant=45837283131586) | 70   | $0.48          | $33.60      |
 | XIAO nRF52840    | [LINK](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-3PCS-p-5921.html)                                 | 3    | $8.10          | $24.30      |
-| Battery          | [LINK](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4236/10244671)                        | 2    | $6.95          | $13.90      |
+| Battery          | [LINK](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1578/5054539)                         | 2    | $7.95          | $15.90      |
 | Lube (3204)      | [LINK](https://mech.land/products/tribosys-3204-lubricant-in-stock)                                             | 1    | $6.00          | $6.00       |
 | Lubing Kit       | [LINK](https://chosfox.com/products/lubing-kit?variant=42670168473794)                                          | 1    | $5.00          | $5.00       |
 | Keycaps          | [LINK](https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42165428289730)                            | 7    | $3.50          | $24.50      |
 |                  |                                                                                                                 |      |                | Total cost  |
-|                  |                                                                                                                 |      |                | $113.96     |
+|                  |                                                                                                                 |      |                | $115.96     |
