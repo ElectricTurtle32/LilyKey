@@ -14,7 +14,7 @@ The design fits together with only a few screws on the bottom
 
 Firmware can be found in this ![repo](https://github.com/ElectricTurtle32/LilyKeyFirmware)
 
-OnShape link
+OnShape link. In order to use the link, copy it into your browser, for some reason if you don't do that you get a 403 error.
 https://cad.onshape.com/documents/438c57f3dff6ca4edb0a97ae/w/4621db7fe7b2abded9ecab59/e/34fd1f2b97a3de8af004570b
 
 
