@@ -615,13 +615,6 @@
 		(uuid "2e1752dd-eb83-4604-af37-40432d935e5e")
 	)
 	(pad "" np_thru_hole circle
-		(at -5.5 0 180)
-		(size 1.9 1.9)
-		(drill 1.9)
-		(layers "*.Cu" "*.Mask")
-		(uuid "7bf1a007-1246-46dd-8262-0f18d64c7993")
-	)
-	(pad "" np_thru_hole circle
 		(at -5.15 -5 270)
 		(size 1.6 1.6)
 		(drill 1.6)
@@ -662,13 +655,6 @@
 		(drill 3.05)
 		(layers "*.Cu" "*.Mask")
 		(uuid "b60aaacf-86eb-47b8-abd2-f65513262217")
-	)
-	(pad "" np_thru_hole circle
-		(at 5.5 0 180)
-		(size 1.9 1.9)
-		(drill 1.9)
-		(layers "*.Cu" "*.Mask")
-		(uuid "b916763a-eae4-44e0-83cc-fc94ef40d30b")
 	)
 	(pad "1" smd roundrect
 		(at -3.5 6 180)
