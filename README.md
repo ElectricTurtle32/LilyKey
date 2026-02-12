@@ -14,7 +14,9 @@ The design fits together with only a few screws on the bottom
 
 Firmware can be found in this ![repo](https://github.com/ElectricTurtle32/LilyKeyFirmware)
 
-The OnShape link can be found ![here](https://cad.onshape.com/documents/438c57f3dff6ca4edb0a97ae/w/4621db7fe7b2abded9ecab59/e/34fd1f2b97a3de8af004570b?renderMode=0&uiState=698d457dedc302500deaaca8)
+The onshape document can be found here.
+https://cad.onshape.com/documents/438c57f3dff6ca4edb0a97ae/w/4621db7fe7b2abded9ecab59/e/34fd1f2b97a3de8af004570b
+
 I will be buying the lubrication kit, and tribosys 3204 out of pocket, due to overbudget constraints. If required, I will also be buying the diodes and JST connectors out of pocket.\
 BOM
 | Description      | Link                                                                                                            | Qty. | Price Per Unit | Total Price |
