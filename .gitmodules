@@ -1,0 +1,3 @@
+[submodule "LilyKeyFirmware"]
+	path = LilyKeyFirmware
+	url = https://github.com/ElectricTurtle32/LilyKeyFirmware
